@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am __Chenyang Yuan__, a third-year PhD student in Biostatistics at Emory University.
+
 <!--
 **chen-yang-yuan/chen-yang-yuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
